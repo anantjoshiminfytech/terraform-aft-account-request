@@ -15,7 +15,7 @@ module "sharedservices" {
   }
 
   change_management_parameters = {
-    change_requested_by = "HashiCorp"
+    change_requested_by = "HashiCorp New"
     change_reason       = "AWS Control Tower Account Factory for Terraform"
   }
 
